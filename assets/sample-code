@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Email Signature - Hachem (25% Smaller)</title>
+  <style>
+    .social-icons {
+      display: flex;
+      justify-content: left;
+      margin-left: 113px;
+      margin-top: 1px;
+      padding-top: 3px;
+      padding-bottom: 3px;
+    }
+
+    .social-icons a {
+      margin-right: 11px;
+    }
+
+    .social-icons img {
+      width: 17px;
+      height: 17px;
+    }
+
+    .signature-container {
+      text-align: left;
+    }
+
+    .signature-header img,
+    .signature-footer img {
+      width: 450px;
+      border: 0;
+    }
+  </style>
+</head>
+<body>
+
+<div class="signature-container">
+  <div class="signature-header">
+    <img src="https://janshteru.github.io/my-svg-files/images/RBT-Email-Signature_Hachem.png" alt="RBT Email Signature Header" />
+  </div>
+
+  <div class="social-icons">
+    <a href="https://www.instagram.com/rbtcollective" target="_blank">
+      <img src="https://janshteru.github.io/my-svg-files/images/instagram-logo.png" alt="Instagram" />
+    </a>
+    <a href="https://www.linkedin.com/company/rbt-collective" target="_blank">
+      <img src="https://janshteru.github.io/my-svg-files/images/linkedin-logo.png" alt="LinkedIn" />
+    </a>
+    <a href="https://www.tiktok.com/@rbtcollective" target="_blank">
+      <img src="https://janshteru.github.io/my-svg-files/images/tiktok-logo.png" alt="TikTok" />
+    </a>
+  </div>
+
+  <div class="signature-footer">
+    <img src="https://janshteru.github.io/my-svg-files/images/RBT-Email-Signature-Lower-Half.png" alt="RBT Lower Signature" />
+  </div>
+</div>
+
+</body>
+</html>
